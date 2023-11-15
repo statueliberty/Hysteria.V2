@@ -5,10 +5,10 @@ tls:
 obfs:
   type: salamander
   salamander:
-    password: iSegaro
+    password: iSina
 auth:
   type: password
-  password: iSegaro
+  password: iSina
 quic:
   initStreamReceiveWindow: 8388608
   maxStreamReceiveWindow: 8388608
