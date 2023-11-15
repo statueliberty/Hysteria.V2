@@ -1,5 +1,5 @@
 server: 158.78.192.157:444 
-auth: 123654789
+auth: iSina
 transport:
   type: udp
   udp:
@@ -7,7 +7,7 @@ transport:
 obfs:
   type: salamander
   salamander:
-    password: cry123
+    password: iSina
 tls:
   sni: google.com 
   insecure: true 
